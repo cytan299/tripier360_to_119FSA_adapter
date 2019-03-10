@@ -20,6 +20,11 @@ Finally, the AP1100 mounted onto the tri-pier 360:
 
 ![adapter_119FSA_tripier](https://github.com/cytan299/tripier360_to_119FSA_adapter/blob/master/pics/IMG_0927.jpeg)
 
+## Cost of adapter
+
+The cost of the adapter is $171 when made at
+[emachineshop](http://www.emachineshop.com) (17 Feb 2019).
+
 
 ## Directory structure
 
