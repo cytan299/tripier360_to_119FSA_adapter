@@ -17,6 +17,7 @@ As you can see, I made the adapter to accept a compass so that the tripier can b
 oriented to point towards Polaris.
 
 Finally, the AP1100 mounted onto the tri-pier 360:
+
 ![adapter_119FSA_tripier](https://github.com/cytan299/tripier360_to_119FSA_adapter/blob/master/pics/IMG_0927.jpeg)
 
 
