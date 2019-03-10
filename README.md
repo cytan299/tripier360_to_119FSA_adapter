@@ -6,15 +6,19 @@ flat surface adapter (119FSA) and the iOptron tri-pier. The photograph
 of the adapter is shown below:
 ![adapter](https://github.com/cytan299/tripier360_to_119FSA_adapter/blob/master/pics/IMG_0915.jpeg)
 
-The adapter with the 119FSA bolted onto it and attached to the tripier
-is shown below:
+The adapter with the 119FSA bolted onto it and attached to the
+tri-pier 360 is shown below:
 
 ![adapter_119FSA](https://github.com/cytan299/tripier360_to_119FSA_adapter/blob/master/pics/IMG_0923.jpeg)
 
 ![adapter_119FSA_tripier](https://github.com/cytan299/tripier360_to_119FSA_adapter/blob/master/pics/IMG_0925.jpeg)
 
 As you can see, I made the adapter to accept a compass so that the tripier can be
-oriented to point towards Polaris. 
+oriented to point towards Polaris.
+
+Finally, the AP1100 mounted onto the tri-pier 360:
+![adapter_119FSA_tripier](https://github.com/cytan299/tripier360_to_119FSA_adapter/blob/master/pics/IMG_0927.jpeg)
+
 
 ## Directory structure
 
