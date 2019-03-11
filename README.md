@@ -29,7 +29,23 @@ The cost of the adapter is $171 when made at
 ## Directory structure
 
 * **drawings** The drawings of the adapter in various formats.
-* **pics** image files for this repository.
+* **pics** image files for this repository and wiki.
+
+## Other information
+
+More information can be found in the *README.md* files in each
+directory and assembly instructions are in the [wiki](https://github.com/cytan299/tripier360_to_119FSA_adapter/wiki/iOptron-Tri-pier-360-to-119FSA-adapter-assembly-instructions) of this project. .
+
+
+## Support
+
+This is unsupported hardware. Build at your own peril! :)
+
+You can submit questions or bug reports using the
+[issues](https://github.com/cytan299/tripier360_to_119FSA_adapter/issues) tab on
+the right and then click on **NEW**.
+
+Have fun!
 
 ## Copyright
 
